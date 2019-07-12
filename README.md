@@ -4,4 +4,4 @@
 pip install paramiko==2.0.8
 
 # 语法
-python ssh_checkusername.py ip username –port 22
+python check_ssh_user.py ip username –port 22
